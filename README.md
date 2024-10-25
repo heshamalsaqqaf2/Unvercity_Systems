@@ -20,3 +20,11 @@ We will use visual studio code. Visual studio code is a very popular open source
 If you installed visual studio code, let us see how to use it.
 
 [![Visual Studio Code](./images/vscode.png)](https://code.visualstudio.com/)
+
+## Installing Git
+
+[![Git](/images/git3.png)](https://code.visualstudio.com/)
+
+## Upload Project in GitHub
+
+[![GitHub](/images/githubL.jpg)](https://)
