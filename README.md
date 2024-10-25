@@ -16,8 +16,6 @@ University_System/  # Root directory.
 
 ## Installing Visual Studio Code
 
-We will use visual studio code. Visual studio code is a very popular open source text editor. I am a fan of vscode and I would recommend to [download](https://code.visualstudio.com/) visual studio code, but if you are in favor of other editors, feel free to follow with what you have.
-If you installed visual studio code, let us see how to use it.
 
 [![Visual Studio Code](./images/vscode.png)](https://code.visualstudio.com/)
 
@@ -33,12 +31,43 @@ If you installed visual studio code, let us see how to use it.
 
 [![Draw.io](/images/Drawio.jpg)](https://)
 
+## Command TeamLeader Project
+
+```yml
+git status
+git add .
+git commit -m "New Commit."
+git push origin main
+```
+
+## Command Git Clone Project
+
+```yml
+git clone https://github.com/username/Unvercity_Systems.git
+```
+
+## Command Teams Groups Project
+
+```yml
+git status
+git add .
+git commit -m "New Commit."
+git push origin main
+```
+
+## Command Git Update File Project
+
+```yml
+git pull origin main
+```
+
+
 ## References
 
-- [Git](http://)
+- [Git](https://git-scm.com/downloads/win)
 - [GitHub](http://github.com/)
-- [VC Code](https://code.visualstudio.com/)
-- [Draw.io](http://)
+- [VS Code](https://code.visualstudio.com/)
+- [Draw.io](https://app.diagrams.net/)
 - [Markdown](http://wikipedia.org/wiki/Markdown)
 
 __[View Documents 👉](REPORTS.md)__
