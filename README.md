@@ -36,7 +36,7 @@ If you installed visual studio code, let us see how to use it.
 ## References
 
 - [Git](http://)
-- [GitHub](http://)
+- [GitHub](http://http://github.com/)
 - [VC Code](https://code.visualstudio.com/)
 - [Draw.io](http://)
 - [Markdown](http://wikipedia.org/wiki/Markdown)
