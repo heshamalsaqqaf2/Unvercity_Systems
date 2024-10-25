@@ -501,13 +501,13 @@ The ClassDiagram gives us a holistic view of the `University System` in terms of
 <div style="display:flex; align-item:center;justify-content: center; gap:15px; margin-bottom: 50px;">
 
 <div style="display:flex; flex-direction: column;">
-<img src="images/git2.png" alt="TeamMember" style="border-radius:50%;   width: 100px; height: 100px; object-fit: cover;">  <b style= "text-align: center;">Ryan</b>
+<img src="images/vscode.png" alt="TeamMember" style="border-radius:50%;   width: 100px; height: 100px; object-fit: cover;">  <b style= "text-align: center;">Ryan</b>
 </div>
 <div style="display:flex; flex-direction: column;">
-<img src="images/git.png" alt="TeamMember" style="border-radius:50%;   width: 100px; height: 100px; object-fit: cover;">  <b style= "text-align: center;">Ryan</b>
+<img src="images/vscode.png" alt="TeamMember" style="border-radius:50%;   width: 100px; height: 100px; object-fit: cover;">  <b style= "text-align: center;">Ryan</b>
 </div>
 <div style="display:flex; flex-direction: column;">
-<img src="images/Drawio3.png" alt="TeamMember" style="border-radius:50%;   width: 100px; height: 100px; object-fit: cover;"><b style= "text-align: center;">Ryan</b>
+<img src="images/vscode.png" alt="TeamMember" style="border-radius:50%;   width: 100px; height: 100px; object-fit: cover;"><b style= "text-align: center;">Ryan</b>
 </div>
 <div style="display:flex; flex-direction: column;">
 <img src="images/vscode.png" alt="TeamMember" style="border-radius:50%;   width: 100px; height: 100px; object-fit: cover;"><b style= "text-align: center;">Ryan</b>
